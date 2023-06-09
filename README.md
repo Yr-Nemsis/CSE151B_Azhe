@@ -8,3 +8,4 @@
 5. For the random forest for call type B, no more files are needed and the model avalibale will be under the variable random_regressor_B. And the output are avaliable under the variable test_pred_B.
 6. For the random forests for call type A, no more files are needed and the model avaliable will be under the varibale random_regressor_A. Note both forests are called the same name and the output get immediately directed into the df_sample dataframe for final results. To test two models separately, it's suggested to change the name accordingly, but nothing has to be done to get the final result. 
 7. Then, run though all cells provided and the result will be stored in a file ```my_pred.csv```.
+8. If there is any issue with the testing, please contact through email: buwu@ucsd.edu. THANKS!
